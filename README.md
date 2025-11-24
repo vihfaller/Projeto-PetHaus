@@ -1,4 +1,4 @@
-# 🐾 Pet Company – Website Institucional
+# 🐾 Pet Haus – Website Institucional
 Este é um site institucional desenvolvido para uma empresa do setor pet, criado com o objetivo de apresentar seus serviços, facilitar a comunicação com clientes e oferecer uma experiência simples e intuitiva para tutores de animais.
 🚀 Funcionalidades
 
